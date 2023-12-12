@@ -31,9 +31,11 @@ Each problem is stored in its own directory. The directory name corresponds to t
 
 The problems solved in this repository are:
 
+```
 - Problem 1
 - Problem 2
 - ...
+```
 
 
 ## Contributing
