@@ -13,7 +13,7 @@ Each problem is stored in its own directory. The directory name corresponds to t
 
 ### Example Directory Structure
 
-\```
+```
 .
 ├── Problem1
 │   ├── Problem1.py
@@ -24,7 +24,7 @@ Each problem is stored in its own directory. The directory name corresponds to t
 │   ├── Problem2.md
 │   └── Problem2.cpp (optional)
 └── ...
-\```
+```
 
 
 ## Problems
